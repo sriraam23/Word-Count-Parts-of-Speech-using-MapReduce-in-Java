@@ -1,0 +1,41 @@
+Output when run on a sample file:
+
+Length: 6
+Count of Words: 12
+Distribution of POS: {Adverb=1, Adjective=1, Verb=2, Noun=8}
+Number of Palindromes: 0
+
+Length: 8
+Count of Words: 9
+Distribution of POS: {Adjective=6, Noun=3}
+Number of Palindromes: 0
+
+Length: 12
+Count of Words: 2
+Distribution of POS: {Adjective=1, Noun=1}
+Number of Palindromes: 0
+
+Length: 5
+Count of Words: 15
+Distribution of POS: {Preposition=2, Adjective=3, Plural=2, Noun=8}
+Number of Palindromes: 0
+
+Length: 7
+Count of Words: 6
+Distribution of POS: {Verb=2, Noun=4}
+Number of Palindromes: 0
+
+Length: 9
+Count of Words: 3
+Distribution of POS: {Adjective=1, Verb=2}
+Number of Palindromes: 0
+
+Length: 11
+Count of Words: 1
+Distribution of POS: {Noun=1}
+Number of Palindromes: 0
+
+Length: 13
+Count of Words: 2
+Distribution of POS: {Noun=2}
+Number of Palindromes: 0
